@@ -1,17 +1,16 @@
 import React from 'react'
 import { logo } from '../assets';
 
-function Hero() {
+const Hero = () => {
   return (
-    <header className="w-full flex 
-    justify-center items-center flex-col fixed top-0 z-10">
-      <nav className='flex justify-between items-center w-full mb-10 pt-3 pl-3 pr-3 pb-5 shadow-md'>
+    <header className="w-full flex justify-center items-center flex-col">
+      <nav className="flex justify-between items-center w-full  mb-10 pt-3">
         <img src={logo} alt='sumz_logo' className='w-28 object-contain' />
 
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/Carlos2902/GPT-SummarizeHub-Rapid-Article-Summarizer", "_blank")
+            window.open("https://github.com/TidbitsJS/Summize", "_blank")
           }
           className='black_btn'
         >

@@ -10,13 +10,12 @@ function App() {
       <div className="main">
         {/* gradient background */}
         <div className="gradient"/>
+      </div>
 
         <div className="app">
             <Hero/>
             <Demo/>
         </div>
-
-      </div>
     </main>
   )
 }
