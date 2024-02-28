@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a web application summarizer created with the use of the Article Extractor and Summarizer API by Anthony. The API efficiently extracts and summarizes articles from specified URLs.
+This repository contains a web application summarizer created with the use of the Article Extractor and Summarizer API by Anthony(https://rapidapi.com/restyler/api/article-extractor-and-summarizer/). The API efficiently extracts and summarizes articles from specified URLs.
 
 ## Features
 
